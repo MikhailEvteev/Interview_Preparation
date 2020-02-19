@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b529d4a4-d49b-4caf-84b6-4af4e9c51762" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3_1/InsertSort.java" afterPath="$PROJECT_DIR$/src/HomeWork3_1/InsertSort.java" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3_2/FibonacciNumbersCalculation.java" afterPath="$PROJECT_DIR$/src/HomeWork3_2/FibonacciNumbersCalculation.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +20,15 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1582143301378" expanded="true" signature="23150:23167" ph="..." />
-                <marker date="1582143301378" expanded="true" signature="23150:23185" ph="..." />
-                <marker date="1582143301378" expanded="true" signature="23150:23198" ph="..." />
+                <marker date="1582143736764" expanded="true" signature="23471:23488" ph="..." />
+                <marker date="1582143736764" expanded="true" signature="23471:23506" ph="..." />
+                <marker date="1582143736764" expanded="true" signature="23471:23519" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HomeWork3_1/InsertSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -39,12 +38,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FibonacciNumbersCalculation.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FibonacciNumbersCalculation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HomeWork3_2/FibonacciNumbersCalculation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="84">
+              <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,6 +92,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/HomeWork3_1/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3_2/FibonacciNumbersCalculation.java" />
       </list>
     </option>
   </component>
@@ -333,9 +336,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1582143301378" expanded="true" signature="23150:23167" ph="..." />
-            <marker date="1582143301378" expanded="true" signature="23150:23185" ph="..." />
-            <marker date="1582143301378" expanded="true" signature="23150:23198" ph="..." />
+            <marker date="1582143736764" expanded="true" signature="23471:23488" ph="..." />
+            <marker date="1582143736764" expanded="true" signature="23471:23506" ph="..." />
+            <marker date="1582143736764" expanded="true" signature="23471:23519" ph="..." />
           </folding>
         </state>
       </provider>
@@ -353,18 +356,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1582143301378" expanded="true" signature="23150:23167" ph="..." />
-            <marker date="1582143301378" expanded="true" signature="23150:23185" ph="..." />
-            <marker date="1582143301378" expanded="true" signature="23150:23198" ph="..." />
+            <marker date="1582143736764" expanded="true" signature="23471:23488" ph="..." />
+            <marker date="1582143736764" expanded="true" signature="23471:23506" ph="..." />
+            <marker date="1582143736764" expanded="true" signature="23471:23519" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HomeWork3_2/FibonacciNumbersCalculation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -389,6 +384,17 @@
         <state relative-caret-position="336">
           <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3_2/FibonacciNumbersCalculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
