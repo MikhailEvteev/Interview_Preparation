@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b529d4a4-d49b-4caf-84b6-4af4e9c51762" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3_2/FibonacciNumbersCalculation.java" afterPath="$PROJECT_DIR$/src/HomeWork3_2/FibonacciNumbersCalculation.java" />
-    </list>
+    <list default="true" id="b529d4a4-d49b-4caf-84b6-4af4e9c51762" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,9 +18,9 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1582143736764" expanded="true" signature="23471:23488" ph="..." />
-                <marker date="1582143736764" expanded="true" signature="23471:23506" ph="..." />
-                <marker date="1582143736764" expanded="true" signature="23471:23519" ph="..." />
+                <marker date="1582143841113" expanded="true" signature="23293:23310" ph="..." />
+                <marker date="1582143841113" expanded="true" signature="23293:23328" ph="..." />
+                <marker date="1582143841113" expanded="true" signature="23293:23341" ph="..." />
               </folding>
             </state>
           </provider>
@@ -336,9 +334,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1582143736764" expanded="true" signature="23471:23488" ph="..." />
-            <marker date="1582143736764" expanded="true" signature="23471:23506" ph="..." />
-            <marker date="1582143736764" expanded="true" signature="23471:23519" ph="..." />
+            <marker date="1582143841113" expanded="true" signature="23293:23310" ph="..." />
+            <marker date="1582143841113" expanded="true" signature="23293:23328" ph="..." />
+            <marker date="1582143841113" expanded="true" signature="23293:23341" ph="..." />
           </folding>
         </state>
       </provider>
@@ -356,9 +354,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1582143736764" expanded="true" signature="23471:23488" ph="..." />
-            <marker date="1582143736764" expanded="true" signature="23471:23506" ph="..." />
-            <marker date="1582143736764" expanded="true" signature="23471:23519" ph="..." />
+            <marker date="1582143841113" expanded="true" signature="23293:23310" ph="..." />
+            <marker date="1582143841113" expanded="true" signature="23293:23328" ph="..." />
+            <marker date="1582143841113" expanded="true" signature="23293:23341" ph="..." />
           </folding>
         </state>
       </provider>
