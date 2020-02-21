@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b529d4a4-d49b-4caf-84b6-4af4e9c51762" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HomeWork3_3/VectorList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HomeWork3_4/Prime.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview_Preparation/HomeWork3_1/InsertSort.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview_Preparation/HomeWork3_2/FibonacciNumbersCalculation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview_Preparation/HomeWork3_3/BidirectionalLinkedList.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview_Preparation/HomeWork3_4/PrimeAlgorithm.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3_3/BidirectionalLinkedList.java" afterPath="$PROJECT_DIR$/src/HomeWork3_3/BidirectionalLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3_4/PrimeAlgorithm.java" afterPath="$PROJECT_DIR$/src/HomeWork3_4/PrimeAlgorithm.java" />
-    </list>
+    <list default="true" id="b529d4a4-d49b-4caf-84b6-4af4e9c51762" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,8 +55,8 @@
       <file leaf-file-name="VectorList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HomeWork3_3/VectorList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="56" column="17" lean-forward="true" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+            <state relative-caret-position="601">
+              <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
               <folding>
                 <element signature="e#190#191#0" expanded="true" />
                 <element signature="e#225#226#0" expanded="true" />
@@ -78,6 +68,7 @@
                 <element signature="e#728#729#0" expanded="true" />
                 <element signature="e#767#768#0" expanded="true" />
                 <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#1034#1035#0" expanded="true" />
                 <element signature="e#1072#1073#0" expanded="true" />
                 <element signature="e#1108#1109#0" expanded="true" />
                 <element signature="e#1151#1152#0" expanded="true" />
@@ -565,8 +556,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HomeWork3_3/VectorList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="56" column="17" lean-forward="true" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        <state relative-caret-position="601">
+          <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
           <folding>
             <element signature="e#190#191#0" expanded="true" />
             <element signature="e#225#226#0" expanded="true" />
@@ -578,6 +569,7 @@
             <element signature="e#728#729#0" expanded="true" />
             <element signature="e#767#768#0" expanded="true" />
             <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
             <element signature="e#1072#1073#0" expanded="true" />
             <element signature="e#1108#1109#0" expanded="true" />
             <element signature="e#1151#1152#0" expanded="true" />
